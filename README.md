@@ -11,6 +11,23 @@ Academic project focused on analyzing **eutrophication** and various statistical
 ##  Technologies  
 - **R** (tidyverse, ggplot2, tidyr, rMR, readxl)
 
+## Plots 
+
+Relationship between oxygen dissolution (tlen_rozp) and pH (odczyn)
+
+![Relationship between oxygen dissolution (tlen_rozp) and pH (odczyn)](wykres1.jpg)
+
+
+Relationship between  Chlorophyll (chlorofil_a) and Phosphorus Organic Geochemical Proxy (FSFR_OGP)
+
+![Relationship between chlorophyll)](wykres2.jpg)
+
+Number of Ratings for Different Indices
+
+![Image of the chart](wykres3.jpg)
+
+
+
 ##  How to Use  
 1. Clone the repository:  
    ```bash
