@@ -17,6 +17,8 @@ Academic project focused on analyzing **eutrophication** and various statistical
    git clone https://github.com/kuba99i1/Eutrophication-Data-Analysis.git
 
 2.Open projekt_eutro.R in RStudio or any other R environment.
+
 3.Ensure BUG.xls is in the project directory.
+
 4.Run the script to analyze the dataset and generate results.
    
